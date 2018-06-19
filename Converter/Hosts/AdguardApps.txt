@@ -1,7 +1,7 @@
 # AdguardApps Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt
-# Last Converted - Sat, 16 Jun 2018 11:24:24 -0400
+# Last Converted - Tue, 19 Jun 2018 10:25:14 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 afreeca-tag.ad-mapps.com

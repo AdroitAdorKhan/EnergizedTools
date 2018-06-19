@@ -1,9 +1,12 @@
 # AdguardTracking Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
-# Last Converted - Sat, 16 Jun 2018 11:24:26 -0400
+# Last Converted - Tue, 19 Jun 2018 10:25:15 -0400
 # Energized - ad.porn.malware blocking.
 
+0.0.0.0 wcfbc.net
+0.0.0.0 selfcampaign.com
+0.0.0.0 metric-agent.i10c.net
 0.0.0.0 upscore.com
 0.0.0.0 usereachpeople.com
 0.0.0.0 yadropro.ru
@@ -3221,6 +3224,7 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 raresummer.com
 0.0.0.0 basketballbelieve.com
 0.0.0.0 ariseboundary.com
 0.0.0.0 hammerhearing.com

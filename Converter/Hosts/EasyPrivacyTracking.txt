@@ -1,7 +1,7 @@
 # EasyPrivacyTracking Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
-# Last Converted - Sat, 16 Jun 2018 11:24:32 -0400
+# Last Converted - Tue, 19 Jun 2018 10:25:21 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 0emm.com
@@ -1136,6 +1136,7 @@
 0.0.0.0 leadin.com
 0.0.0.0 leadintel.io
 0.0.0.0 leadintelligence.co.uk
+0.0.0.0 leadlab.click
 0.0.0.0 leadlife.com
 0.0.0.0 leadmanagerfx.com
 0.0.0.0 leadsius.com
@@ -1493,6 +1494,7 @@
 0.0.0.0 pingomatic.com
 0.0.0.0 pipfire.com
 0.0.0.0 pippio.com
+0.0.0.0 piwik.pro
 0.0.0.0 pixel.ad
 0.0.0.0 pixel.parsely.com
 0.0.0.0 pixel.watch
@@ -1572,6 +1574,7 @@
 0.0.0.0 qdtracking.com
 0.0.0.0 qlfsat.co.uk
 0.0.0.0 qlitics.com
+0.0.0.0 qlzn6i1l.com
 0.0.0.0 qoijertneio.com
 0.0.0.0 qsstats.com
 0.0.0.0 quantcount.com
@@ -2290,6 +2293,7 @@
 0.0.0.0 yjtag.jp
 0.0.0.0 ymetrica1.com
 0.0.0.0 youbora.com
+0.0.0.0 youboranqs01.com
 0.0.0.0 youmetrix.co.uk
 0.0.0.0 your-counter.be
 0.0.0.0 youramigo.com

@@ -1,7 +1,7 @@
 # SquidBlacklistAds Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - http://www.squidblacklist.org/downloads/dg-ads.acl
-# Last Converted - Sat, 16 Jun 2018 11:24:42 -0400
+# Last Converted - Tue, 19 Jun 2018 10:25:33 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 0icep80f.com
@@ -247,7 +247,6 @@
 0.0.0.0 ad.entgroup.cn
 0.0.0.0 adespresso.com
 0.0.0.0 ad.etaocms.com
-0.0.0.0 ad.eurosport.com
 0.0.0.0 adevents.com.au
 0.0.0.0 adex.alphalab.com
 0.0.0.0 adexchange.io
@@ -348,6 +347,7 @@
 0.0.0.0 adisn.com
 0.0.0.0 adition.com
 0.0.0.0 adition.de
+0.0.0.0 adition.net
 0.0.0.0 aditize.com
 0.0.0.0 adit-media.com
 0.0.0.0 adizio.com
@@ -410,7 +410,6 @@
 0.0.0.0 admarketplace.net
 0.0.0.0 admarvel.com
 0.0.0.0 admarvel.s3.amazonaws.com
-0.0.0.0 admaster.biz
 0.0.0.0 admaster.net
 0.0.0.0 ad-maven.com
 0.0.0.0 admax.eu
@@ -1727,7 +1726,6 @@
 0.0.0.0 cashlayer.com
 0.0.0.0 cashtrafic.info
 0.0.0.0 casinogames.com
-0.0.0.0 casinopays.com
 0.0.0.0 casinorewards.com
 0.0.0.0 casino-zilla.com
 0.0.0.0 caspion.com
@@ -1792,6 +1790,7 @@
 0.0.0.0 clickagents.com
 0.0.0.0 clickagy.com
 0.0.0.0 clickbank.com
+0.0.0.0 clickbet88.com
 0.0.0.0 clickbooth.com
 0.0.0.0 clickboothlnk.com
 0.0.0.0 clickbrokers.com
@@ -1846,6 +1845,7 @@
 0.0.0.0 cnomy.com
 0.0.0.0 cnt1.pocitadlo.cz
 0.0.0.0 cntdy.mobi
+0.0.0.0 cnt.my
 0.0.0.0 cnt.spbland.ru
 0.0.0.0 coadvertise.com
 0.0.0.0 code-server.biz
@@ -2360,6 +2360,7 @@
 0.0.0.0 hentaicounter.com
 0.0.0.0 herocpm.com
 0.0.0.0 hexagram.com
+0.0.0.0 hexasoft.com.my
 0.0.0.0 hexusads.fluent.ltd.uk
 0.0.0.0 heyos.com
 0.0.0.0 heywire.com
@@ -3105,7 +3106,6 @@
 0.0.0.0 opap.co.kr
 0.0.0.0 openads.friendfinder.com
 0.0.0.0 openads.org
-0.0.0.0 openad.tf1.fr
 0.0.0.0 openad.travelnow.com
 0.0.0.0 openmarket.com
 0.0.0.0 openxadexchange.com
@@ -3265,7 +3265,6 @@
 0.0.0.0 poponclick.com
 0.0.0.0 poppysol.com
 0.0.0.0 popsads.com
-0.0.0.0 poptarts.me
 0.0.0.0 poptm.com
 0.0.0.0 popub.com
 0.0.0.0 popularmedia.net
@@ -3310,7 +3309,6 @@
 0.0.0.0 profero.com
 0.0.0.0 projectwonderful.com
 0.0.0.0 pro-kc-sc-hybris-fo.cloudapp.net
-0.0.0.0 proludimpup.com
 0.0.0.0 promo.badoink.com
 0.0.0.0 promo.badoink.com.i.belugacdn.com
 0.0.0.0 promobenef.com
@@ -3427,7 +3425,6 @@
 0.0.0.0 realsecuredredir.com
 0.0.0.0 realsecuredredirect.com
 0.0.0.0 realssp.co.kr
-0.0.0.0 realtechnetwork.com
 0.0.0.0 realvu.net
 0.0.0.0 reate.info
 0.0.0.0 recentres.com
@@ -3666,7 +3663,6 @@
 0.0.0.0 sociomantic.com
 0.0.0.0 sodud.com
 0.0.0.0 so-excited.com
-0.0.0.0 soft4dle.com
 0.0.0.0 softclick.com.br
 0.0.0.0 softonicads.com
 0.0.0.0 solapoka.com
@@ -4094,7 +4090,6 @@
 0.0.0.0 track.mrskininteractive.com
 0.0.0.0 track.mypcbackup.com
 0.0.0.0 trackmysales.com
-0.0.0.0 track.myvoluumtrk36.com
 0.0.0.0 track.myvoluum.website
 0.0.0.0 track.natassia-dreams.com
 0.0.0.0 track.naturalxl.pl

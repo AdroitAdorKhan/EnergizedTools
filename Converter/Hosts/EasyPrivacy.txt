@@ -1,7 +1,7 @@
 # EasyPrivacy Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://easylist.to/easylist/easyprivacy.txt
-# Last Converted - Sat, 16 Jun 2018 11:24:30 -0400
+# Last Converted - Tue, 19 Jun 2018 10:25:20 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 -geoIP.js
@@ -1141,6 +1141,7 @@
 0.0.0.0 leadin.com
 0.0.0.0 leadintel.io
 0.0.0.0 leadintelligence.co.uk
+0.0.0.0 leadlab.click
 0.0.0.0 leadlife.com
 0.0.0.0 leadmanagerfx.com
 0.0.0.0 leadsius.com
@@ -1498,6 +1499,7 @@
 0.0.0.0 pingomatic.com
 0.0.0.0 pipfire.com
 0.0.0.0 pippio.com
+0.0.0.0 piwik.pro
 0.0.0.0 pixel.ad
 0.0.0.0 pixel.parsely.com
 0.0.0.0 pixel.watch
@@ -1577,6 +1579,7 @@
 0.0.0.0 qdtracking.com
 0.0.0.0 qlfsat.co.uk
 0.0.0.0 qlitics.com
+0.0.0.0 qlzn6i1l.com
 0.0.0.0 qoijertneio.com
 0.0.0.0 qsstats.com
 0.0.0.0 quantcount.com
@@ -2295,6 +2298,7 @@
 0.0.0.0 yjtag.jp
 0.0.0.0 ymetrica1.com
 0.0.0.0 youbora.com
+0.0.0.0 youboranqs01.com
 0.0.0.0 youmetrix.co.uk
 0.0.0.0 your-counter.be
 0.0.0.0 youramigo.com
@@ -3354,6 +3358,7 @@
 0.0.0.0 stat.4u.pl
 0.0.0.0 stat.pl
 0.0.0.0 tagcdn.com
+0.0.0.0 volvelle.tech
 0.0.0.0 way2traffic.com
 0.0.0.0 engageya.com
 0.0.0.0 marktest.pt
@@ -4375,7 +4380,6 @@
 0.0.0.0 telemetry.reembed.com
 0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 thetradedesk-tags.s3.amazonaws.com
-0.0.0.0 threadloom.com
 0.0.0.0 tl.tradetracker.net
 0.0.0.0 tm.tradetracker.net
 0.0.0.0 top-fwz1.mail.ru
