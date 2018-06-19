@@ -1,7 +1,7 @@
 # Energized GoogleVideo Blocker
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedHosts/EnergizedGV
-# Last Converted - Sat, 16 Jun 2018 11:24:54 -0400
+# Last Converted - Tue, 19 Jun 2018 10:25:46 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 r1---sn-1gi7zne7.googlevideo.com
@@ -3204,6 +3204,46 @@
 0.0.0.0 r19.sn-4g5edns6.googlevideo.com
 0.0.0.0 r20---sn-4g5edns6.googlevideo.com
 0.0.0.0 r20.sn-4g5edns6.googlevideo.com
+0.0.0.0 r1---sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r1.sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r2---sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r2.sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r3---sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r3.sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r4---sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r4.sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r5---sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r5.sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r6---sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r6.sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r7---sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r7.sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r8---sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r8.sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r9---sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r9.sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r10---sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r10.sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r11---sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r11.sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r12---sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r12.sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r13---sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r13.sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r14---sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r14.sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r15---sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r15.sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r16---sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r16.sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r17---sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r17.sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r18---sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r18.sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r19---sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r19.sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r20---sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r20.sn-4g5e6n7k.googlevideo.com
 0.0.0.0 r1---sn-5hne6n76.googlevideo.com
 0.0.0.0 r1.sn-5hne6n76.googlevideo.com
 0.0.0.0 r2---sn-5hne6n76.googlevideo.com
@@ -8804,6 +8844,46 @@
 0.0.0.0 r19.sn-g4fl6ne6.googlevideo.com
 0.0.0.0 r20---sn-g4fl6ne6.googlevideo.com
 0.0.0.0 r20.sn-g4fl6ne6.googlevideo.com
+0.0.0.0 r1---sn-hc57en7d.googlevideo.com
+0.0.0.0 r1.sn-hc57en7d.googlevideo.com
+0.0.0.0 r2---sn-hc57en7d.googlevideo.com
+0.0.0.0 r2.sn-hc57en7d.googlevideo.com
+0.0.0.0 r3---sn-hc57en7d.googlevideo.com
+0.0.0.0 r3.sn-hc57en7d.googlevideo.com
+0.0.0.0 r4---sn-hc57en7d.googlevideo.com
+0.0.0.0 r4.sn-hc57en7d.googlevideo.com
+0.0.0.0 r5---sn-hc57en7d.googlevideo.com
+0.0.0.0 r5.sn-hc57en7d.googlevideo.com
+0.0.0.0 r6---sn-hc57en7d.googlevideo.com
+0.0.0.0 r6.sn-hc57en7d.googlevideo.com
+0.0.0.0 r7---sn-hc57en7d.googlevideo.com
+0.0.0.0 r7.sn-hc57en7d.googlevideo.com
+0.0.0.0 r8---sn-hc57en7d.googlevideo.com
+0.0.0.0 r8.sn-hc57en7d.googlevideo.com
+0.0.0.0 r9---sn-hc57en7d.googlevideo.com
+0.0.0.0 r9.sn-hc57en7d.googlevideo.com
+0.0.0.0 r10---sn-hc57en7d.googlevideo.com
+0.0.0.0 r10.sn-hc57en7d.googlevideo.com
+0.0.0.0 r11---sn-hc57en7d.googlevideo.com
+0.0.0.0 r11.sn-hc57en7d.googlevideo.com
+0.0.0.0 r12---sn-hc57en7d.googlevideo.com
+0.0.0.0 r12.sn-hc57en7d.googlevideo.com
+0.0.0.0 r13---sn-hc57en7d.googlevideo.com
+0.0.0.0 r13.sn-hc57en7d.googlevideo.com
+0.0.0.0 r14---sn-hc57en7d.googlevideo.com
+0.0.0.0 r14.sn-hc57en7d.googlevideo.com
+0.0.0.0 r15---sn-hc57en7d.googlevideo.com
+0.0.0.0 r15.sn-hc57en7d.googlevideo.com
+0.0.0.0 r16---sn-hc57en7d.googlevideo.com
+0.0.0.0 r16.sn-hc57en7d.googlevideo.com
+0.0.0.0 r17---sn-hc57en7d.googlevideo.com
+0.0.0.0 r17.sn-hc57en7d.googlevideo.com
+0.0.0.0 r18---sn-hc57en7d.googlevideo.com
+0.0.0.0 r18.sn-hc57en7d.googlevideo.com
+0.0.0.0 r19---sn-hc57en7d.googlevideo.com
+0.0.0.0 r19.sn-hc57en7d.googlevideo.com
+0.0.0.0 r20---sn-hc57en7d.googlevideo.com
+0.0.0.0 r20.sn-hc57en7d.googlevideo.com
 0.0.0.0 r1---sn-h5576n7k.googlevideo.com
 0.0.0.0 r1.sn-h5576n7k.googlevideo.com
 0.0.0.0 r2---sn-h5576n7k.googlevideo.com
