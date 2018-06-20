@@ -1,7 +1,7 @@
 # DisconnectMEMalvertising Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Last Converted - Tue, 19 Jun 2018 10:25:29 -0400
+# Last Converted - Wed, 20 Jun 2018 03:43:22 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 alphaprinthouse.org
@@ -9,8 +9,8 @@
 0.0.0.0 amo122.com
 0.0.0.0 marco-behrendt.de
 0.0.0.0 blackry.com
-0.0.0.0 foxionserl.com
 0.0.0.0 freightmatellc.com
+0.0.0.0 foxionserl.com
 0.0.0.0 szzlzn.com
 0.0.0.0 ceocms.com
 0.0.0.0 globalnursesonline.com
@@ -42,13 +42,13 @@
 0.0.0.0 mkhafnorcu81.com
 0.0.0.0 3e1.cn
 0.0.0.0 luguanmm.com
-0.0.0.0 cheapness.byefelicia.fr
-0.0.0.0 lwyzzx.cn
 0.0.0.0 99meikang.com
-0.0.0.0 xzmnt.com
+0.0.0.0 cheapness.byefelicia.fr
 0.0.0.0 mamivoi.com
+0.0.0.0 lwyzzx.cn
 0.0.0.0 royalair.koom.ma
 0.0.0.0 softtube.cn
+0.0.0.0 xzmnt.com
 0.0.0.0 shenke.com.cn
 0.0.0.0 www.51ysxs.com
 0.0.0.0 8883448.com
@@ -58,23 +58,23 @@
 0.0.0.0 bothwellbridge.co.uk
 0.0.0.0 0001.2waky.com
 0.0.0.0 anhui-attorney.com
-0.0.0.0 www33.xzmnt.com
 0.0.0.0 xiazai.dns-vip.net
+0.0.0.0 www33.xzmnt.com
 0.0.0.0 bradyhansen.com
 0.0.0.0 commissioncrusher.com
 0.0.0.0 daizheha.com
 0.0.0.0 modijie.com
 0.0.0.0 ya-googl.ws
-0.0.0.0 dl.yizhan123.com
 0.0.0.0 autizmus.n1.hu
+0.0.0.0 dl.yizhan123.com
 0.0.0.0 bafuhotel.com
 0.0.0.0 nonoknit.com
 0.0.0.0 q2melbourne.com
 0.0.0.0 blog.fm120.com
 0.0.0.0 bag86.com
 0.0.0.0 boydfiber.com
-0.0.0.0 ctv.whpx8.com
 0.0.0.0 swzhb.com
+0.0.0.0 ctv.whpx8.com
 0.0.0.0 sxhhyy.com
 0.0.0.0 1010fz.com
 0.0.0.0 eurolatexthai.com
@@ -86,15 +86,15 @@
 0.0.0.0 www48.omrtw.com
 0.0.0.0 n85853.cn
 0.0.0.0 nainasdesigner.com
-0.0.0.0 ytx360.com
 0.0.0.0 biolat.org
+0.0.0.0 ytx360.com
 0.0.0.0 bohoth.com
 0.0.0.0 dancecourt.com
 0.0.0.0 phpoutsourcingindia.com
 0.0.0.0 sosplombiers-9eme.fr
 0.0.0.0 www5.xi1111.com
-0.0.0.0 hobbyworkshop.com
 0.0.0.0 pc-pointers.com
+0.0.0.0 hobbyworkshop.com
 0.0.0.0 33lzmm.com
 0.0.0.0 pornstar-candysue.de
 0.0.0.0 alsera.de
@@ -107,8 +107,8 @@
 0.0.0.0 www.fchabkirchen-frauenberg.de
 0.0.0.0 www.unicaitaly.it
 0.0.0.0 cfcgl.com
-0.0.0.0 vqlgli.com
 0.0.0.0 www230.kkvmaj.com
+0.0.0.0 vqlgli.com
 0.0.0.0 teksograd.ru
 0.0.0.0 www26.llbb88.com
 0.0.0.0 www244.lzxsw100.com
@@ -161,9 +161,9 @@
 0.0.0.0 sinopengelleriasma.com
 0.0.0.0 0538ly.cn
 0.0.0.0 dtstesting.com
-0.0.0.0 www.yserch.com
 0.0.0.0 kele1688.web23.badudns.cc
 0.0.0.0 56hj.cn
+0.0.0.0 www.yserch.com
 0.0.0.0 hostiraj.info
 0.0.0.0 bjdenon.com
 0.0.0.0 av5k.com
@@ -211,8 +211,8 @@
 0.0.0.0 36robots.com
 0.0.0.0 adongcomic.com
 0.0.0.0 hdrhsy.cn
-0.0.0.0 3262111.com
 0.0.0.0 www.nbyuxin.com
+0.0.0.0 3262111.com
 0.0.0.0 www.scoeyc.com
 0.0.0.0 jdcartoon.com
 0.0.0.0 yes1899.com
@@ -222,15 +222,15 @@
 0.0.0.0 robinkornett.com
 0.0.0.0 900tif.com
 0.0.0.0 chinabodagroup.com
-0.0.0.0 buthoprus.narod.ru
 0.0.0.0 secure-softwaremanager.com
+0.0.0.0 buthoprus.narod.ru
 0.0.0.0 euroasia-p.com
 0.0.0.0 ziejpzrv.cz.cc
 0.0.0.0 sisters.truyen24h.info
 0.0.0.0 hzm6.com
-0.0.0.0 www.caixapre.com.br
-0.0.0.0 simplequiltmaking.com
 0.0.0.0 www.blogonur.com
+0.0.0.0 simplequiltmaking.com
+0.0.0.0 www.caixapre.com.br
 0.0.0.0 114.sohenan.cn
 0.0.0.0 pham.duchieu.de
 0.0.0.0 hbweiner.org
@@ -271,8 +271,8 @@
 0.0.0.0 xoads.com
 0.0.0.0 regis.foultier.free.fr
 0.0.0.0 reglasti.com
-0.0.0.0 www.lydaoyou.com
 0.0.0.0 youknownow.ru
+0.0.0.0 www.lydaoyou.com
 0.0.0.0 dog.halfbirthdayproducts.com
 0.0.0.0 crossleather.com
 0.0.0.0 gdby.com.cn
@@ -374,11 +374,11 @@
 0.0.0.0 bkkjob.com
 0.0.0.0 xingsi.com
 0.0.0.0 xinweico.net
-0.0.0.0 ziheyuan.com
 0.0.0.0 aa.xqwqbg.com
+0.0.0.0 ziheyuan.com
 0.0.0.0 yxhlv.com
-0.0.0.0 ktoooo.com
 0.0.0.0 12directions.com
+0.0.0.0 ktoooo.com
 0.0.0.0 spywareshop.info
 0.0.0.0 sunggysus.com
 0.0.0.0 img.securesoft.info
@@ -394,9 +394,9 @@
 0.0.0.0 5689.nl
 0.0.0.0 utildata.co.kr
 0.0.0.0 54ly.com
-0.0.0.0 federaciondepastores.com
 0.0.0.0 911718.net
 0.0.0.0 evlilikfoto.com
+0.0.0.0 federaciondepastores.com
 0.0.0.0 first-ware.com
 0.0.0.0 thepainfreeformula.com
 0.0.0.0 4006868488.cn
@@ -419,10 +419,10 @@
 0.0.0.0 fm120.com
 0.0.0.0 www.cibonline.org
 0.0.0.0 nonglirili.net
-0.0.0.0 www.wwgin.com
 0.0.0.0 im900.com
-0.0.0.0 xinyitaoci.com
+0.0.0.0 www.wwgin.com
 0.0.0.0 xn--80aaagge2acs2agf3bgi.xn--p1ai
+0.0.0.0 xinyitaoci.com
 0.0.0.0 yfvnve.com
 0.0.0.0 bakuzbuq.ru
 0.0.0.0 wwttmm.com
@@ -445,8 +445,8 @@
 0.0.0.0 dns-vip.net
 0.0.0.0 jjc11.com
 0.0.0.0 junjiezyc.com
-0.0.0.0 download.dns-vip.net
 0.0.0.0 www37.yazouh.com
+0.0.0.0 download.dns-vip.net
 0.0.0.0 junshi366.com
 0.0.0.0 jjb88.com
 0.0.0.0 english.ahzh-pv.com
@@ -494,8 +494,8 @@
 0.0.0.0 transition.org.cn
 0.0.0.0 www.2seo8.com
 0.0.0.0 www.gdby.com.cn
-0.0.0.0 www.thoosje.com
 0.0.0.0 akuaba.chez.com
+0.0.0.0 www.thoosje.com
 0.0.0.0 fabiocaminero.com
 0.0.0.0 barbaros.com
 0.0.0.0 panthawas.com
@@ -504,14 +504,14 @@
 0.0.0.0 etstemizlik.com
 0.0.0.0 18cum.com
 0.0.0.0 annedouglas.com
-0.0.0.0 vbswzm.com
 0.0.0.0 senrima.ru
-0.0.0.0 today-newday.cn
+0.0.0.0 vbswzm.com
 0.0.0.0 vcbqxu.com
+0.0.0.0 today-newday.cn
 0.0.0.0 www.defygravity.com
+0.0.0.0 www.hentelpower.com
 0.0.0.0 verfer.com
 0.0.0.0 wsxhost.net
-0.0.0.0 www.hentelpower.com
 0.0.0.0 yserch.com
 0.0.0.0 xzsk.com
 0.0.0.0 yihaotui.com
@@ -527,9 +527,8 @@
 0.0.0.0 www.soidc.com
 0.0.0.0 baby.py.shangdu.com
 0.0.0.0 krisbel.com
-0.0.0.0 virus-help.us
-0.0.0.0 xxxporno18.ru
 0.0.0.0 0871ggw.net
+0.0.0.0 xxxporno18.ru
 0.0.0.0 bga100.cn
 0.0.0.0 rtyszz.com
 0.0.0.0 xiaocen.com
@@ -608,9 +607,9 @@
 0.0.0.0 dnliren.com
 0.0.0.0 downlaod.tuizhong.com
 0.0.0.0 downlaod.vstart.net
-0.0.0.0 tesorosdecancun.com
 0.0.0.0 downlaod1.vstart.net
 0.0.0.0 e2bworld.com
+0.0.0.0 tesorosdecancun.com
 0.0.0.0 freemasstraffic.com
 0.0.0.0 js.5689.nl
 0.0.0.0 jxy88.com
@@ -766,16 +765,16 @@
 0.0.0.0 nvplv.cc
 0.0.0.0 omrtw.com
 0.0.0.0 qqmeise.com
-0.0.0.0 t70123.com
 0.0.0.0 17so.so
 0.0.0.0 tuizhong.com
 0.0.0.0 071899.com
 0.0.0.0 1788111.com
 0.0.0.0 s-parta.za.pl
 0.0.0.0 125jumeinv.com
+0.0.0.0 t70123.com
 0.0.0.0 268cp.com
-0.0.0.0 augami.net
 0.0.0.0 ynxp.co
+0.0.0.0 augami.net
 0.0.0.0 arizst.ru
 0.0.0.0 blog.3kingsclothing.com
 0.0.0.0 deltagroup.kz
@@ -785,9 +784,9 @@
 0.0.0.0 www70.vcbqxu.com
 0.0.0.0 power.bestconstructionexpertwitness.com
 0.0.0.0 honghuamm.com
+0.0.0.0 huaxiagongzhu.com
 0.0.0.0 redinvestor.com
 0.0.0.0 bisimai.com
-0.0.0.0 huaxiagongzhu.com
 0.0.0.0 cadastrabb.com
 0.0.0.0 384756783900.cn
 0.0.0.0 bxzxw.net
@@ -801,8 +800,8 @@
 0.0.0.0 qwepa.com
 0.0.0.0 qabbanihost.com
 0.0.0.0 dccallers.org
-0.0.0.0 uyqrwg.com
 0.0.0.0 sightshare.com
+0.0.0.0 uyqrwg.com
 0.0.0.0 lagrotta4u.de
 0.0.0.0 jienoo.com
 0.0.0.0 www32.rtyszz.com
@@ -909,8 +908,8 @@
 0.0.0.0 zdesestvareznezahodi.com
 0.0.0.0 bori82.com
 0.0.0.0 bqbbw.com
-0.0.0.0 gitinge.com
 0.0.0.0 gzdywz.com
+0.0.0.0 gitinge.com
 0.0.0.0 indogator.com
 0.0.0.0 findapple.ru
 0.0.0.0 mxyyth.com
@@ -1000,9 +999,9 @@
 0.0.0.0 specialistups.com
 0.0.0.0 sushischool.ru
 0.0.0.0 agroluftbild.de
-0.0.0.0 volpefurniture.com
-0.0.0.0 bi2vl.com
 0.0.0.0 ukkvdx.com
+0.0.0.0 bi2vl.com
+0.0.0.0 volpefurniture.com
 0.0.0.0 icailing.com
 0.0.0.0 mmexe.com
 0.0.0.0 vdownloads.ru

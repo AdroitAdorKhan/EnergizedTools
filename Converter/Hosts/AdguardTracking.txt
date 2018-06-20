@@ -1,9 +1,11 @@
 # AdguardTracking Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
-# Last Converted - Tue, 19 Jun 2018 10:25:15 -0400
+# Last Converted - Wed, 20 Jun 2018 03:43:11 -0400
 # Energized - ad.porn.malware blocking.
 
+0.0.0.0 az416426.vo.msecnd.net
+0.0.0.0 a.klaviyo.com
 0.0.0.0 wcfbc.net
 0.0.0.0 selfcampaign.com
 0.0.0.0 metric-agent.i10c.net

@@ -1,7 +1,7 @@
 # EasyPrivacy Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://easylist.to/easylist/easyprivacy.txt
-# Last Converted - Tue, 19 Jun 2018 10:25:20 -0400
+# Last Converted - Wed, 20 Jun 2018 03:43:15 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 -geoIP.js
@@ -1582,6 +1582,7 @@
 0.0.0.0 qlzn6i1l.com
 0.0.0.0 qoijertneio.com
 0.0.0.0 qsstats.com
+0.0.0.0 quadran.eu
 0.0.0.0 quantcount.com
 0.0.0.0 quantummetric.com
 0.0.0.0 qubitproducts.com

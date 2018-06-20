@@ -1,7 +1,7 @@
 # EasylistAdserver Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
-# Last Converted - Tue, 19 Jun 2018 10:25:20 -0400
+# Last Converted - Wed, 20 Jun 2018 03:43:16 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 007-gateway.com
@@ -6759,6 +6759,7 @@
 0.0.0.0 ctzvtevpcssx.com
 0.0.0.0 cuabgfjnib.bid
 0.0.0.0 cuchpagh.com
+0.0.0.0 cuecxgwkjtan.com
 0.0.0.0 cuguwxkasghy.com
 0.0.0.0 cuhicevdjsfey.com
 0.0.0.0 cukabtvyl.com
@@ -11509,6 +11510,7 @@
 0.0.0.0 vhlsrzyt.bid
 0.0.0.0 vhpqxkhvjgwx.com
 0.0.0.0 vhscigqpwe.com
+0.0.0.0 vhuhrhowm.com
 0.0.0.0 vhuveukirbuz.com
 0.0.0.0 vhwuphctrfil.com
 0.0.0.0 vhzzzbdtxhh.bid
@@ -12240,6 +12242,7 @@
 0.0.0.0 yfzcjqpxunsn.com
 0.0.0.0 yfzohuuguor.bid
 0.0.0.0 ygbokgipe.bid
+0.0.0.0 ygkovmqdty.com
 0.0.0.0 ygkqjensf.bid
 0.0.0.0 ygrtbssc.com
 0.0.0.0 ygsgfzydhdgd.com
@@ -12355,6 +12358,7 @@
 0.0.0.0 ytapgckhhvou.com
 0.0.0.0 ytaujxmxxxmm.com
 0.0.0.0 ytbnswbr.bid
+0.0.0.0 ytbpmzbabph.com
 0.0.0.0 ytiqdpws.bid
 0.0.0.0 ytiyuqfxjbke.com
 0.0.0.0 ytjadaazjjy.bid
