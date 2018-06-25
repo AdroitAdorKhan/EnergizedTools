@@ -1,7 +1,7 @@
 # MatomoSpammers Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
-# Last Converted - Wed, 20 Jun 2018 03:43:26 -0400
+# Last Converted - Mon, 25 Jun 2018 01:31:17 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 0n-line.tv
@@ -103,6 +103,7 @@
 0.0.0.0 best-seo-software.xyz
 0.0.0.0 best-seo-solution.com
 0.0.0.0 bestmobilityscooterstoday.com
+0.0.0.0 bestofferhddeed.info
 0.0.0.0 bestwebsitesawards.com
 0.0.0.0 betterhealthbeauty.com
 0.0.0.0 bif-ru.info
@@ -330,7 +331,9 @@
 0.0.0.0 germes-trans.com
 0.0.0.0 get-free-social-traffic.com
 0.0.0.0 get-free-traffic-now.com
+0.0.0.0 get-more-freeer-visitors.info
 0.0.0.0 get-your-social-buttons.info
+0.0.0.0 getadsincomely.info
 0.0.0.0 getlamborghini.ga
 0.0.0.0 getrichquick.ml
 0.0.0.0 getrichquickly.info
@@ -505,6 +508,7 @@
 0.0.0.0 mobilemedia.md
 0.0.0.0 mockupui.com
 0.0.0.0 modforwot.ru
+0.0.0.0 moinozhki.com
 0.0.0.0 monetizationking.net
 0.0.0.0 money-for-placing-articles.com
 0.0.0.0 moneytop.ru
@@ -584,6 +588,7 @@
 0.0.0.0 pornohd1080.online
 0.0.0.0 pornoklad.ru
 0.0.0.0 pornonik.com
+0.0.0.0 pornoplen.com
 0.0.0.0 portnoff.od.ua
 0.0.0.0 pozdravleniya-c.ru
 0.0.0.0 priceg.com
@@ -802,6 +807,7 @@
 0.0.0.0 vodaodessa.com
 0.0.0.0 vodkoved.ru
 0.0.0.0 vzheludke.com
+0.0.0.0 vzubkah.com
 0.0.0.0 w3javascript.com
 0.0.0.0 wallpaperdesk.info
 0.0.0.0 wdss.com.ua

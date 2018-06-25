@@ -1,7 +1,7 @@
 # EasyPrivacyTracking Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
-# Last Converted - Wed, 20 Jun 2018 03:43:17 -0400
+# Last Converted - Mon, 25 Jun 2018 01:31:06 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 0emm.com
@@ -117,6 +117,7 @@
 0.0.0.0 admaster.com.cn
 0.0.0.0 admitad.com
 0.0.0.0 admother.com
+0.0.0.0 adnxs.com
 0.0.0.0 adobedtm.com
 0.0.0.0 adobetag.com
 0.0.0.0 adoftheyear.com
@@ -768,6 +769,7 @@
 0.0.0.0 fathomseo.com
 0.0.0.0 fcs.ovh
 0.0.0.0 fdxstats.xyz
+0.0.0.0 feathr.co
 0.0.0.0 feedcat.net
 0.0.0.0 feedjit.com
 0.0.0.0 feedperfect.com
@@ -1129,6 +1131,7 @@
 0.0.0.0 lead-123.com
 0.0.0.0 lead-converter.com
 0.0.0.0 lead-tracking.biz
+0.0.0.0 leadboxer.com
 0.0.0.0 leadforce1.com
 0.0.0.0 leadforensics.com
 0.0.0.0 leadformix.com

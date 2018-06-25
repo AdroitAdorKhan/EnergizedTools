@@ -1,9 +1,19 @@
 # CybercrimeTracker Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://v.firebog.net/hosts/Cybercrime.txt
-# Last Converted - Wed, 20 Jun 2018 03:43:26 -0400
+# Last Converted - Mon, 25 Jun 2018 01:31:18 -0400
 # Energized - ad.porn.malware blocking.
 
+0.0.0.0 supremedmitry.zzz.com.ua
+0.0.0.0 engerrow.gq
+0.0.0.0 chinaquanchenq.com
+0.0.0.0 blablatrain.xyz
+0.0.0.0 jhuynfrkijucdxiu.club
+0.0.0.0 axe-ortho.fr
+0.0.0.0 detailingpro.co.in
+0.0.0.0 www.juden.lortex.host
+0.0.0.0 singatradeing.com
+0.0.0.0 jumangiback.com
 0.0.0.0 pony3.33nets.com
 0.0.0.0 baobabtreeevent.com
 0.0.0.0 jalango.co.ke
@@ -22,7 +32,6 @@
 0.0.0.0 berfipol.co.vu
 0.0.0.0 verysome.ml
 0.0.0.0 verodsp.ml
-0.0.0.0 singatradeing.com
 0.0.0.0 greyistanbulport.com
 0.0.0.0 fectmone.ml
 0.0.0.0 domainsvilla.ml
@@ -426,7 +435,6 @@
 0.0.0.0 irishgrind.ml
 0.0.0.0 inciqsyuasa.com
 0.0.0.0 emma.masterworkloki.ga
-0.0.0.0 detailingpro.co.in
 0.0.0.0 chritlebrittle.tk
 0.0.0.0 finelets.ru
 0.0.0.0 cobility.top

@@ -1,7 +1,7 @@
 # CKSkype Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/Corporations/Skype%20Ad-Free/CK%27s-Skype-FilterList.txt
-# Last Converted - Wed, 20 Jun 2018 03:43:21 -0400
+# Last Converted - Mon, 25 Jun 2018 01:31:11 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 !104.146.0.0-104.146.0.19
@@ -22,6 +22,7 @@
 0.0.0.0 65.55.108.23
 0.0.0.0 a-0001.a-msedge.net
 0.0.0.0 a.ads2.msads.net
+0.0.0.0 a.config.skype.com
 0.0.0.0 ac3.msn.com
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 adnexus.net
@@ -36,15 +37,19 @@
 0.0.0.0 api.skype.com
 0.0.0.0 apps.skype.com
 0.0.0.0 b.ads2.msads.net
+0.0.0.0 b.config.skype.com
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 c.atdmt.com
+0.0.0.0 c.config.skype.com
 0.0.0.0 c.msn.com.nsatc.net
 0.0.0.0 c.msn.com
 0.0.0.0 cdn.atdmt.com
 0.0.0.0 cds26.ams9.msecn.net
+0.0.0.0 channel.skype.com
 0.0.0.0 choice.microsoft.com.nstac.net
 0.0.0.0 choice.microsoft.com
 0.0.0.0 compatexchange.cloudapp.net
+0.0.0.0 conn.skype.com
 0.0.0.0 corp.sts.microsoft.com
 0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com
 0.0.0.0 cs1.wpc.v0cdn.net
@@ -53,6 +58,7 @@
 0.0.0.0 devapps.skype.net
 0.0.0.0 diagnostics.support.microsoft.com
 0.0.0.0 ec.atdmt.com
+0.0.0.0 extras.skype.com
 0.0.0.0 fe2.update.microsoft.com.akadns.net
 0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 feedback.search.microsoft.com
@@ -61,6 +67,7 @@
 0.0.0.0 flex.msn.com
 0.0.0.0 g.msn.com
 0.0.0.0 global.msads.net
+0.0.0.0 googletb.skype.com
 0.0.0.0 h1.msn.com
 0.0.0.0 h2.msn.com
 0.0.0.0 i1.services.social.microsoft.com.nsatc.net
@@ -69,7 +76,10 @@
 0.0.0.0 m.hotmail.com
 0.0.0.0 msftncsi.com
 0.0.0.0 msntest.serving-sys.com
+0.0.0.0 my.email.skype.com
 0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
+0.0.0.0 offer5.skype.com
+0.0.0.0 offer6.skype.com
 0.0.0.0 pipe.skype.com
 0.0.0.0 pre.footprintpredict.com
 0.0.0.0 preads.skypeassets.net
@@ -87,7 +97,9 @@
 0.0.0.0 serving.plexop.net
 0.0.0.0 settings-sandbox.data.microsoft.com
 0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 skype.tt.omtrdc.net
 0.0.0.0 sls.update.microsoft.com.akadns.net
+0.0.0.0 smetrics.skype.com
 0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
 0.0.0.0 ssw.live.com
 0.0.0.0 static-asm.secure.skypeassets.com
@@ -108,3 +120,4 @@
 0.0.0.0 watson.live.com
 0.0.0.0 watson.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com.nsatc.net
+0.0.0.0 welcome.skype.com
